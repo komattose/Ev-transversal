@@ -24,3 +24,7 @@ public class SwaggerConfigurations {
         return new OpenAPI();
     }
 }
+/**
+ *
+ * @author Villacura
+ */
