@@ -3,7 +3,7 @@ package com.usuarios.UsuariosRest.models;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "usuarios")
+@Table(name = "users")
 public class UsuarioModel {
     public long getId() {
         return id;
